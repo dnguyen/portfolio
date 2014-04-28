@@ -1,6 +1,6 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<title>Dylan Nguyen</title>
+<title>Dylan Nguyen @if (isset($page_subtitle))- {{ $page_subtitle }} @endif</title>
 
 <link href='http://fonts.googleapis.com/css?family=Roboto+Condensed:300' rel='stylesheet' type='text/css'>
 <link href='http://fonts.googleapis.com/css?family=Roboto:400,300,500' rel='stylesheet' type='text/css'>

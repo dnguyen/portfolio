@@ -22,32 +22,6 @@
         </div>
     </section>
 
-    <!--<section class="skills">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-12">
-                    <h3>Skills</h3>
-                </div>
-            </div>
-            <div class="row">
-                <div class="skill col-md-4">
-                    <div class="icon"><img src="assets/images/cogs3.png"></div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse mollis sagittis lacus vitae iaculis. Vestibulum ac lorem at sem sodales facilisis sed et lectus. Cras in egestas enim, et pulvinar orci.</p>
-                </div>
-
-                <div class="skill col-md-4">
-                    <div class="icon"><img src="assets/images/personal5.png"></div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse mollis sagittis lacus vitae iaculis. Vestibulum ac lorem at sem sodales facilisis sed et lectus. Cras in egestas enim, et pulvinar orci.</p>
-                </div>
-
-                <div class="skill col-md-4">
-                    <div class="icon phone"><img src="assets/images/apple.png"></div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse mollis sagittis lacus vitae iaculis. Vestibulum ac lorem at sem sodales facilisis sed et lectus. Cras in egestas enim, et pulvinar orci.</p>
-                </div>
-            </div>
-        </div>
-    </section>-->
-
     <section class="current-projects">
         <div class="container">
             <div class="row">
@@ -58,20 +32,23 @@
             <div class="row">
                 <div class="col-md-4">
                     <div class="project">
-                    <h4>yourkpop</h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse mollis sagittis lacus vitae iaculis. Vestibulum ac lorem at sem sodales facilisis sed et lectus. Cras in egestas enim, et pulvinar orci.</p>
+                        <h4>yourkpop</h4>
+                        <p>yourkpop providers users a place to keep track of and listen to Korean Pop music. Users can create their own playlists and libraries from thousands of different songs and artists.</p>
+                        <a class="btn btn-success" href="/projects">Learn More</a>
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="project">
                         <h4>QRMyOrder</h4>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse mollis sagittis lacus vitae iaculis. Vestibulum ac lorem at sem sodales facilisis sed et lectus. Cras in egestas enim, et pulvinar orci.</p>
+                        <p>QRMyOrder is a service and web application that we plan on selling to restaurant owners. It will allow the restaurant's customers to place orders through their smartphone.</p>
+                        <a class="btn btn-success" href="/projects">Learn More</a>
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="project">
                         <h4>Desktop SMS</h4>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse mollis sagittis lacus vitae iaculis. Vestibulum ac lorem at sem sodales facilisis sed et lectus. Cras in egestas enim, et pulvinar orci.</p>
+                        <p>DesktopSMS is an Android and desktop application that allows the user to connect to their phone through the network to send and recieve text messages.</p>
+                        <a class="btn btn-success" href="/projects">Learn More</a>
                     </div>
                 </div>
             </div>

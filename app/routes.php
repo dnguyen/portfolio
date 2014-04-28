@@ -16,9 +16,13 @@ Route::get('/', function(){
 });
 
 Route::get('/resume', function() {
-    return View::make('pages.about');
+    return View::make('pages.resume', array('page_subtitle' => 'Resume'));
 });
 
 Route::get('/projects', function() {
-    return View::make('pages.projects');
+    return View::make('pages.projects', array('page_subtitle' => 'Projects'));
+});
+
+Route::get('/contact', function() {
+    return View::make('pages.contact', array('page_subtitle' => 'Contact'));
 });
