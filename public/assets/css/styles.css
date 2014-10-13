@@ -67,7 +67,6 @@ a {
     background-position: center;
     color: #FFF;
 	height: 300px;
-	text-align: center;
 }
 
 .hero-unit .title, .hero-unit .description {
@@ -75,7 +74,7 @@ a {
 }
 
 .hero-unit .description {
-    font-size: 18px;
+    font-size: 20px;
 }
 
 .skills {

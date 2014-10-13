@@ -19,10 +19,10 @@
                 <img src="assets/images/qrmyorder_preview.png">
             </div>
             <div class="description col-md-7">
-                <h3>QRMyOrder</h3>
-                <p>QRMyOrder is a service and web application that we plan on selling to restaurant owners. It will allow the restaurant's customers to place orders through their smartphone. An employee will then scan the customer's orders using a QR code; the order is then dispatched to all employees.</p>
-                <p>QRMyOrder is currently a small startup with 3 other Penn State IST students. It originally started as an idea developed at a hackathon, but eventually lead to actual interest from multiple restaurants. I am currently leading the development of the backend software and architecture. We are using Laravel 4 for a RESTful API that all clients use. We needed the restaurants employees to be able to see orders in real-time, so I added a NodeJS socket.io server to handle dispatching orders in real-time.</p>
-                <a href="http://qrmyorder.com" class="btn btn-success">View prototype</a>
+                <h3>QRmyOrder</h3>
+                <p>QRmyOrder is a service and web application that we plan on selling to restaurant owners. It will allow the restaurant's customers to place orders through their smartphone. An employee will then scan the customer's orders using a QR code; the order is then dispatched to all employees.</p>
+                <p>QRmyOrder is currently a being developed with 3 other people. It originally started as an idea developed at a hackathon (HackPSU), but eventually lead to actual interest from multiple restaurants. I am currently leading the development of the backend software and architecture. We are using Laravel 4 for a RESTful API that all clients use. We needed the restaurants employees to be able to see orders in real-time, so I developed a NodeJS socket.io server to handle dispatching orders in real-time.</p>
+                <a href="http://test.qrmyorder.com" class="btn btn-success">View prototype</a>
             </div>
         </div>
         <div class="project row">
