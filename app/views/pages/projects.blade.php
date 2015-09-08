@@ -33,6 +33,18 @@
 
         <div class="project row">
             <div class="thumb col-md-5">
+                <img src="http://dummyimage.com/500x300/eeeeee/000000">
+            </div>
+            <div class="description col-md-7">
+                <h3>Eating Speed Glove</h3>
+                <p>Worked with 2 other students to design and build a prototype for a glove that can detect how fast a user is eating.</p>
+                <p>Developed the algorithm that took accelerometer and bend sensor data from the glove/arduino to determine eating speed.</p>
+                <p>Implemented the Bluetooth communication between the arduino and an Android application.</p>
+            </div>
+        </div>
+
+        <div class="project row">
+            <div class="thumb col-md-5">
                 <img src="assets/images/qrmyorder_preview.png">
             </div>
             <div class="description col-md-7">

@@ -71,7 +71,7 @@
                             <ul class="list-square">
                                 <li>Developed anew health insurance dashboard web application using C#, ASP.NET, and MSSQL.</li>
                                 <li>Converted a legacy verification system into a RESTful API.</li>
-                                <li>Designed and implementednew user friendly UI components using JavaScript,React, and jQuery.</li>
+                                <li>Designed and implemented new user friendly UI components using JavaScript,React, and jQuery.</li>
                                 <li>Implemented responsive designs into already existing web applications.</li>
                                 <li>Developed mainly in JavaScript, C#, ASP, HTML, and CSS.</li>
                             </ul>
@@ -106,7 +106,7 @@
                             <ul class="list-square">
                                 <li>Currently working with 3 other people to create a web/mobile application that allows restaurant customers to place orders through their phone.</li>
                                 <li>Restaurant employees are able to see incoming orders in real-time.</li>
-                                <li>Originally started as a HackPSU project and lead to interest from multiple State College restaurants..</li>
+                                <li>Originally started as a HackPSU project and lead to interest from multiple State College restaurants.</li>
                                 <li>Developed with PHP (Laravel), NodeJS, JavaScript (Backbone, jQuery), and MySQL.</li>
                             </ul>
                         </li>
