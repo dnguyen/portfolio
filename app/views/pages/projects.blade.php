@@ -18,7 +18,7 @@
 
         <div class="project row">
             <div class="thumb col-md-5">
-                <img src="http://dummyimage.com/500x300/eeeeee/000000">
+                <img src="assets/images/yourkpop2.0_preview.png">
             </div>
             <div class="description col-md-7">
                 <h3>yourkpop v2.0</h3>
