@@ -1,6 +1,7 @@
 @extends('layouts.default')
 @section('content')
     <div class="content container">
+
         <div class="project row">
             <div class="thumb col-md-5">
                 <a href="http://yourkpop.com"><img src="assets/images/yourkpop_preview.png"></a>
@@ -14,6 +15,22 @@
                 <a href="https://github.com/dnguyen/gosu.io-api" class="btn btn-primary">API Source</a>
             </div>
         </div>
+
+        <div class="project row">
+            <div class="thumb col-md-5">
+                <img src="http://dummyimage.com/500x300/eeeeee/000000">
+            </div>
+            <div class="description col-md-7">
+                <h3>yourkpop v2.0</h3>
+                <p>A complete redesign and rebuild of yourkpop. The API and back end services will be rebuilt using Node, Express and socket.io. The automated service that finds KPop music on YouTube has also been rewritten in Go; new service improved performance by ~70% due to concurrency.</p>
+                <p>The front end will be redesigned to be responsive and much more user friendly. It will be built using React and Redux.</p>
+                <p>New features:</p>
+                <ul>
+                    <li>Real time popularity statistics for artists</li>
+                </ul>
+            </div>
+        </div>
+
         <div class="project row">
             <div class="thumb col-md-5">
                 <img src="assets/images/qrmyorder_preview.png">
